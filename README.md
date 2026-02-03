@@ -1,4 +1,4 @@
-# Ex-4 Rail-Fence-Program
+# Ex-5 Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
@@ -62,3 +62,5 @@ int main() {
 
 
 # RESULT
+
+Thus the implementation of rail fence transposition technique is executed successfully.
